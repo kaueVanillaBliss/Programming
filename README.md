@@ -1,5 +1,77 @@
-# exercicios-python
+# Estudo de Programação 
 Estudo de pyhton através de lista de exercícios!
+
+
+# 📚 Lista de Exercícios em Lua
+
+Coleção de exercícios para praticar Lua, do básico ao avançado. Marque os exercícios conforme for resolvendo.
+
+## Básico (variáveis, operadores, condicionais)
+- [ ] 1. Leia dois números e imprima a soma, subtração, multiplicação e divisão.
+- [ ] 2. Leia um número e diga se é par ou ímpar.
+- [ ] 3. Leia a idade de uma pessoa e classifique: criança (até 12), adolescente (13 a 17), adulto (18 a 59) ou idoso (60+).
+- [ ] 4. Converta uma temperatura de Celsius para Fahrenheit.
+- [ ] 5. Leia três números e mostre o maior deles.
+
+## Laços (`for`, `while`, `repeat`)
+- [ ] 6. Imprima os números de 1 a 100.
+- [ ] 7. Imprima a tabuada de um número lido do usuário.
+- [ ] 8. Calcule o fatorial de um número.
+- [ ] 9. Imprima os primeiros N termos da sequência de Fibonacci.
+- [ ] 10. Some todos os números pares entre 1 e 1000.
+- [ ] 11. Use `repeat ... until` para pedir uma senha até o usuário acertar.
+
+## Funções
+- [ ] 12. Crie uma função `ehPrimo(n)` que retorna `true` ou `false`.
+- [ ] 13. Crie uma função que retorne o máximo e o mínimo de três números (retorno múltiplo).
+- [ ] 14. Escreva uma função recursiva para calcular a potência `a^b`.
+- [ ] 15. Crie uma função com número variável de argumentos (`...`) que calcule a média.
+
+## Strings
+- [ ] 16. Conte quantas vogais existem em uma string.
+- [ ] 17. Inverta uma string sem usar `string.reverse`.
+- [ ] 18. Verifique se uma palavra é um palíndromo.
+- [ ] 19. Conte quantas vezes cada palavra aparece em uma frase (use `string.gmatch`).
+- [ ] 20. Implemente a Cifra de César.
+
+## Tabelas (arrays)
+- [ ] 21. Crie uma tabela com 10 números e imprima a soma e a média.
+- [ ] 22. Encontre o maior e o menor elemento de uma tabela.
+- [ ] 23. Remova elementos duplicados de uma tabela.
+- [ ] 24. Ordene uma tabela usando `table.sort` em ordem crescente e decrescente.
+- [ ] 25. Implemente o Bubble Sort manualmente.
+- [ ] 26. Some duas matrizes (tabelas de tabelas) 3x3.
+
+## Tabelas (dicionários)
+- [ ] 27. Crie um cadastro de alunos com nome, idade e nota, e imprima quem foi aprovado (nota ≥ 7).
+- [ ] 28. Inverta um dicionário (chaves viram valores e vice-versa).
+- [ ] 29. Conte a frequência de cada caractere em um texto.
+
+## Metatables e orientação a objetos
+- [ ] 30. Crie uma "classe" `Pessoa` com os métodos `falar()` e `aniversario()`.
+- [ ] 31. Implemente herança: `Aluno` herda de `Pessoa` e adiciona `matricula`.
+- [ ] 32. Use `__add` para somar dois vetores 2D.
+- [ ] 33. Use `__tostring` para imprimir um objeto de forma legível.
+- [ ] 34. Implemente uma Pilha (Stack) e uma Fila (Queue) usando tabelas.
+
+## Avançado
+- [ ] 35. Crie um closure que funcione como contador (cada chamada incrementa).
+- [ ] 36. Use corrotinas (`coroutine`) para criar um gerador de números pares.
+- [ ] 37. Implemente um iterador personalizado para percorrer uma tabela de trás para frente.
+- [ ] 38. Use `pcall` e `error` para tratar divisão por zero.
+- [ ] 39. Leia um arquivo de texto com `io.open` e conte linhas e palavras.
+- [ ] 40. Escreva um jogo de adivinhação: o programa sorteia um número (`math.random`) e dá dicas de "maior" ou "menor".
+
+## Desafios finais
+- [ ] **Calculadora de linha de comando** com menu e as quatro operações.
+- [ ] **Jogo da forca** simples.
+- [ ] **Lista de tarefas (to-do)** que salva e carrega de um arquivo.
+
+
+
+
+
+
 
 Desafio 50 Exercícios de Python
 Repositório dedicado ao aprendizado de Python através da resolução de exercícios práticos, focado em lógica de programação e estruturas fundamentais.
